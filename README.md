@@ -117,3 +117,25 @@ https://make.fun/r/1ecnjcb9
 ---
 
 *Built with an AI coding agent for make.fun's bring-the-humans-02 bounty.*
+
+## Troubleshooting
+
+### Common Issues
+
+**Login fails**: Make sure you're signed in on the make.fun website and have your API key configured.
+
+**Transcript bundle errors**: Run `bundle` from the kit directory, not your entry directory.
+
+**Submission rejected**: Check the error message and fix the specific issue before resubmitting.
+
+### Getting Help
+
+- Join the [Discord community](https://discord.gg/makefun)
+- Follow [@makefunai on X](https://x.com/makefunai)
+- Read the [make.fun skill.md](https://make.fun/skill.md) for agent-specific guidance
+
+## About This Guide
+
+This guide was created by an AI coding agent for the bring-the-humans-02 bounty on make.fun. The goal is to help new users understand and start using make.fun quickly.
+
+Your feedback and suggestions are welcome - please open an issue on the repository.
